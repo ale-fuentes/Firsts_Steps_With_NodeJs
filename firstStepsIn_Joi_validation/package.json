@@ -1,0 +1,14 @@
+{
+  "name": "firststepsin_joi_validation",
+  "version": "1.0.0",
+  "description": "my firts steps in validation the inputs ussing JOI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Fuentes",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.3.0"
+  }
+}
