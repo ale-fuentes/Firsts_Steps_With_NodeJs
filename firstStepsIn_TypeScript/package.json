@@ -1,0 +1,14 @@
+{
+  "name": "firststepsin_typescript",
+  "version": "1.0.0",
+  "description": "My first steps in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alejandro fuentes",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
